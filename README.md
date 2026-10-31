@@ -15,12 +15,10 @@
 
 ## About me
 
-สวัสดีครับ ผม **Natthawut** นักพัฒนาที่สนใจการสร้างเว็บไซต์ที่ใช้งานง่าย
-หน้าตาดี และใส่ใจเรื่องความปลอดภัยตั้งแต่ต้นทาง
+สวัสดีครับ ผม **Natthawut** 
 
-- กำลังพัฒนา: **React, TypeScript, UI/UX และ Cybersecurity**
-- สนใจคุยเรื่อง: Frontend architecture, accessibility และ secure-by-design
-- เป้าหมาย: เปลี่ยนไอเดียให้เป็นผลิตภัณฑ์ที่ใช้งานได้จริง
+- กำลังพัฒนา: **React, TypeScript และ Cybersecurity**
+
 
 ## Tech stack
 
@@ -71,7 +69,7 @@ Role-based workspace, Log Analyzer, Policy Hub และ Incident Report
 
 ### Thanks for stopping by ✨
 
-<sub>เปิดรับการเรียนรู้ โปรเจกต์ใหม่ และการ collaboration ที่สร้าง impact</sub>
+<sub>🕵🏻</sub>
 
 </div>
 
